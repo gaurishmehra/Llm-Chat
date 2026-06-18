@@ -2,8 +2,7 @@
 
 A simple chat application built with Ionic that utilizes Large Language Models (LLMs) for conversation.
 
-#### Note : - My laptop's screen is now partially fixed.. well I got a new screen but Jee-Mains is about 2 months away so I'll code in my breaks but it won't be much.. 
-
+#### ARCHIVED
 ## About
 
 This application provides a basic chat interface powered by LLMs. It's designed to be easily adaptable to any LLM API that's compatible with the OpenAI SDK. While it can be used as a website, it's primarily intended for Android devices. 
